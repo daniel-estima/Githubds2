@@ -1,4 +1,4 @@
 1>criei a pasta o arquivo txt
 2>criei as atividades 1 e 2
-3>criei a atv3
+3>criei a atividade3
 
